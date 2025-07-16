@@ -57,3 +57,23 @@ A simple **console-based car puzzle game** developed in C++ where the player con
 
 ## 📁 File Structure
 
+---
+
+## 🧠 Key Concepts Used
+
+- Object-Oriented Programming (OOP)
+- Inheritance and Polymorphism
+- Pointers and Dynamic Memory Allocation
+- Grid and Position-based logic
+- Structs and Operator Overloading
+
+---
+
+## 🧑‍💻 Author
+
+**Usaid Raza**  
+BS Artificial Intelligence, FAST NUCES Islamabad  
+[LinkedIn](https://www.linkedin.com/in/usaid-raza-3a9393323)  
+📧 shaikhusaid1904@gmail.com 
+
+
