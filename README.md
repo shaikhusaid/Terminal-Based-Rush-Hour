@@ -1,2 +1,1 @@
-# Example Repository
-Hello World! This is a simple repository
+# Terminal Based Rush-Hour Game Using OOP (Object Oriented Programming) in C++
